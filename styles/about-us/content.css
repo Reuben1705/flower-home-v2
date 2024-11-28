@@ -3,10 +3,7 @@
     height: 1300px;
     display: flex;
     flex-direction: column;
-    background-color: rgb(244, 173, 189);
 }
-
-
 
 .about-us-image-container{
     display: flex;
@@ -46,13 +43,6 @@
 .hand-image{
     height: 300px;
     width: 300px;
-}
-
-.blossom{
-    float: left;
-    height: 300px;
-    width: 600px;
-    transform: rotate(90deg);
 }
 
 .header-links-container{
