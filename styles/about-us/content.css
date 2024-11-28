@@ -3,10 +3,7 @@
     height: 1300px;
     display: flex;
     flex-direction: column;
-}
-
-body{
-    background-color: rgb(244, 173, 189);
+    background-color: rgb(243, 175, 190);
 }
 
 .about-us-image-container{
