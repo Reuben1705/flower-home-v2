@@ -1,0 +1,51 @@
+.information-section-container{
+    display: flex;
+    flex: 1;
+    height: 680px;
+    background-color: rgb(231, 187, 176);
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.information-image-container{
+    display: flex;
+    align-items: center;
+    margin-right: 150px;
+}
+
+.information-image{
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.05), 0 1px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+
+.information-text-container{
+    height: 650px;
+    width: 400px;
+}
+
+.information-text{
+    line-height: 25px;
+    font-size: 15px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+
+.information-text-title{
+    line-height: 25px;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+
+.information-text-subtitle{
+    line-height: 25px;
+    font-size: 35px;
+    font-style: italic;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}

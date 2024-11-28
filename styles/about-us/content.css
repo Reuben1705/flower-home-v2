@@ -1,0 +1,64 @@
+.content-section-container {
+    margin-top: 30px;
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    background: url("/FlowerCakeGirls/images/about-us/Cherry_Blossom_45_B.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+.about-us-image-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.about-us-image{
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+}
+
+.about-us-text-container{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.about-us-text{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    width: 780px;
+    line-height: 60px;
+}
+
+
+.hand-image-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.hand-image{
+    height: 300px;
+    width: 300px;
+}
+
+.blossom{
+    float: left;
+    height: 300px;
+    width: 600px;
+    transform: rotate(90deg);
+}
+
+.header-links-container{
+    animation: none;
+}
